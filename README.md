@@ -21,7 +21,7 @@ Build the project (Windows)
 -------------------
 - Instructions on how to build *zzrat*
 ```bash
-git clone --recursive https://github.com/987699873/zzrat.git
+git clone --recursive https://github.com/zzrat/zzrat.git
 cd zzrat && mkdir build && cd build
 cmake ..
 ```
